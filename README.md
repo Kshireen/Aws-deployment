@@ -1,1 +1,1 @@
-# AWS deployment
+# machine learning project with AWS deployment
